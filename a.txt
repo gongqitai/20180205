@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 aÐÞ¸Ä
 0206ÐÞ¸Ä
 =======
@@ -180,4 +180,3 @@ cor.X=y;
 cor.Y=x;
 SetConsoleCursorPosition(hout,cor);
 }
->>>>>>> refs/remotes/origin/master
