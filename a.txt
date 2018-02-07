@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> refs/remotes/origin/branch1
 aÐÞ¸Ä   £¨0206ÐÞ¸Ä£©
 =======
 #include <stdio.h>
@@ -180,8 +176,3 @@ cor.X=y;
 cor.Y=x;
 SetConsoleCursorPosition(hout,cor);
 }
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
-
->>>>>>> refs/remotes/origin/branch1
